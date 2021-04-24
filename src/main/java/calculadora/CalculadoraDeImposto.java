@@ -1,4 +1,4 @@
-package br.com.calculadora;
+package calculadora;
 
 public class CalculadoraDeImposto {
 
